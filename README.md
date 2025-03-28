@@ -25,14 +25,14 @@ Customize or modify visualizations as per requirements.
 
 ## Usage:
 To explore insights using the dashboard:
--Open Power BI and load the .pbix file.
--Interact with various visualizations including:
--Recruitment funnel analysis
--Candidate evaluation metrics
--Time-to-hire analytics
--Sourcing effectiveness reports
--Offer acceptance rates
--Utilize filtering options to drill down into specific data points.
+.Open Power BI and load the .pbix file.
+.Interact with various visualizations including:
+.Recruitment funnel analysis
+.Candidate evaluation metrics
+.Time-to-hire analytics
+.Sourcing effectiveness reports
+.Offer acceptance rates
+.Utilize filtering options to drill down into specific data points.
 ## Features:
 - **Blockchain-Enabled Recruitment Data:** Guarantees secure and transparent hiring records.  
 - **Real-Time Analytics:** Offers dynamic filtering and interactive data visualization.  
