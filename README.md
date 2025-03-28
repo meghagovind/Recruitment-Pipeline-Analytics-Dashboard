@@ -6,21 +6,32 @@ To overcome these challenges, the Recruitment Pipeline Analytics Dashboard integ
 
 ## Table of Contents:
 Installation
+
 Usage
+
 Features
+
 Project Structure
+
 Live Dashboard
+
 Contributing
+
 License
+
 Acknowledgements
 
 ## Installation:
 ### This project utilizes Power BI for data visualization and analytics.
 ### Steps to Set Up the Dashboard:
 Install Microsoft Power BI Desktop from the official site.
+
 Download the project files and open the Power BI (.pbix) dashboard.
+
 Connect the dashboard to the recruitment dataset (blockchain_recruitment_pipeline.csv).
+
 Refresh the data to ensure real-time insights.
+
 Customize or modify visualizations as per requirements.
 
 ## Usage:
@@ -51,25 +62,35 @@ Utilize filtering options to drill down into specific data points.
 ## Project Structure:
 your-project/
 ├── data/
+
 │   ├── blockchain_recruitment_pipeline.csv
+
 ├── reports/
+
 │   ├── recruitment_dashboard.pbix
+
 ├── README.md
+
 └── LICENSE
 
 ## 📊 Live Dashboard:
 Check out the interactive Power BI dashboard here:
 👉 View Dashboard
+
 🔐 Be cautious — “Publish to Web” makes the dashboard publicly accessible.
 
 ## Acknowledgements
 
 Saint Louis University - IS-5960-03 Masters Research Project
+
 Instructor: Maria Weber
+
 Contributors: Sasidhar Bommisetty, Lakshmi Venkata Bharat Kumar, Malisetty Chris Lorven Gunde, Akshay Deep Goud Gundla, Sai Meghana Guthula
+
 Resources: 
 maggiesMSFT. (n.d.). Power BI documentation - Power BI. Microsoft Learn.  
 https://learn.microsoft.com/en-us/power-bi/
+
 Pk. (2024, December 15). Recruitment Pipeline Dashboard in Power BI - PK: an Excel expert. 
 PK: An Excel Expert. 
 https://www.pk-anexcelexpert.com/recruitment-pipeline-dashboard-in-power-bi/
