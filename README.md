@@ -59,6 +59,10 @@ Utilize filtering options to drill down into specific data points.
 - **Predictive Scenario Modeling:** Delivers insights to enhance hiring strategies.  
 - **Data Accuracy Verification:** Maintains reliability and consistency in recruitment data.  
 - **Automated Notifications:** Alerts stakeholders to potential hiring challenges.
+- Hiring Rate by Job Role & Company
+- Sourcing Channel Effectiveness
+- Salary Benchmarking by Skills
+- Location-Based Hiring Trends
 ## Project Structure:
 your-project/
 ├── data/
@@ -75,7 +79,10 @@ your-project/
 
 ## 📊 Live Dashboard:
 Check out the interactive Power BI dashboard here:
-👉 View Dashboard
+👉 snapshots of Dashboard : 
+![image](https://github.com/user-attachments/assets/16d01413-1b72-4583-9d52-03545a0188fc)
+
+![image](https://github.com/user-attachments/assets/bb88a3d4-80c1-4c63-974b-2f8de473ee76)
 
 🔐 Be cautious — “Publish to Web” makes the dashboard publicly accessible.
 
